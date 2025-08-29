@@ -1,12 +1,14 @@
-# Checko 🚀☕️
+# Checko ☕️
 
 Welcome to **Checko** – my experimental AI-powered agent that connects automation flows with a simple frontend.  
 Think of it like a playground where you can tell AI to **sign up on websites, post tweets, or even send Gmail messages**, and it will just do it.  
 
+YT Demo - [https://www.youtube.com/watch?v=55tbjddRnbE]
+
 
 ---
 
-## 🔥 What this project does
+##  What this project does
 
 We’ve built 3 main scenarios so far:
 
